@@ -5,3 +5,6 @@ Where are these stupid 36% of Americans? They hate everything. Blame everyone. D
 Fox is their only media. Pathetic, sycophants.
 Can't lead or think so follow blindly.
 An embarassment to humanity.
+
+Dealing with a slum lord.
+Patriotism, flag & bible. Autocrats and the scum who are THAT.
