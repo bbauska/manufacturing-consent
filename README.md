@@ -1,29 +1,31 @@
 <!-- index.html of manufacturing-consent for man-consent.bauska.org -->
-#### MANUFACTURING 
-**CONSENT**
+# MANUFACTURING 
+# **CONSENT**
 
-#### The Political Economy
+## The Political Economy
+## of the Mass Media
 
-##### of the Mass Media
-
-#### EDWARD S. HERMAN
+<cite>EDWARD S. HERMAN</cite>
 
 and
 
-#### NOAM CHOMSKY
+<cite>NOAM CHOMSKY</cite>
 
-With a new introduction by the authors
+### With a new introduction by the authors
 
-Pantheon Books, New York
-
+#### Pantheon Books, New York
+<blockquote>
 The Iran-contra scandals were blamed on the President's easygoing 
 habits, though the people had every opportunity to know this was 
 his way of doing things or not doing before they put him in the 
 White House, not once but twice. 
 *James Reston*
+</blockquote>
 
+<blockquote>
 They who have put out the people's eyes, reproach them of blindness. 
 *John Milton*
+</blockquote>
 
 #### Contents
 
