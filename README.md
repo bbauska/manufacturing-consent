@@ -1,3 +1,4 @@
+<!-- index.html of manufacturing-consent for man-consent.bauska.org -->
 #### MANUFACTURING 
 **CONSENT**
 
