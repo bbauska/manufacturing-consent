@@ -1,4 +1,4 @@
-/* ./css/style.css of theUFOExperience for UFO-exp.bauska.org */
+/* ./css/style.css of manufacturing-consent for man-consent.bauska.org */
 * {
   box-sizing: border-box;
 }
@@ -10,13 +10,7 @@ body {
   font-family: "IM Fell DW Pica", serif;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
+h1, h2, h3, h4, h5, h6, p {
   margin: 0;
 }
 
