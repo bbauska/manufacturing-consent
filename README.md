@@ -1,35 +1,35 @@
 <!-- index.html of manufacturing-consent for man-consent.bauska.org -->
-# MANUFACTURING 
-# **CONSENT**
+<h1>MANUFACTURING<br>
+<b>CONSENT</b></h1>
 
-## The Political Economy
-## of the Mass Media
+<h2>The Political Economy</h2>
+<h2>of the Mass Media</h2>
 
-<cite>EDWARD S. HERMAN</cite>
+<cite>EDWARD S. HERMAN<br>
+and<br>
+NOAM CHOMSKY</cite>
 
-and
+<h3>With a new introduction by the authors</h3>
 
-<cite>NOAM CHOMSKY</cite>
+<h4>Pantheon Books, New York</h4>
 
-### With a new introduction by the authors
-
-#### Pantheon Books, New York
 <blockquote>
 The Iran-contra scandals were blamed on the President's easygoing 
 habits, though the people had every opportunity to know this was 
 his way of doing things or not doing before they put him in the 
 White House, not once but twice. 
-*James Reston*
+<i>James Reston</i>
 </blockquote>
 
 <blockquote>
 They who have put out the people's eyes, reproach them of blindness. 
-*John Milton*
+<i>John Milton</i>
 </blockquote>
 
-#### Contents
+<h4>Contents</h4>
 
-Introduction xi Preface lix
+Introduction xi
+Preface lix
 
 1. A Propaganda Model 1
 
