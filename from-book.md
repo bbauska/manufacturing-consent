@@ -1,4 +1,4 @@
-<!-- manufacturing consent thru 5.6 (half way copied from pdf -->
+<!-- from-book.md: manufacturing consent thru 5.6 (half way copied from pdf -->
 Manufacturing Consent - The Poltical Economy of the Mass Media
 by Edward S. Herman and Noam Chomsky
 
@@ -14,10 +14,10 @@ Table of Contents
 
 0. Introduction
 
-THIS BOOK CENTERS IN WHAT WE
-CALL A "PROPAGANDA model," an analytical framework that attempts to explain the perform-
-ance of the U.S. media in terms of the basic institutional structures and
-relationships within which they operate. It is our view that, among their
+THIS BOOK CENTERS IN WHAT WE CALL A "PROPAGANDA model," an analytical framework 
+that attempts to explain the performance of the U.S. media in terms of the basic 
+institutional structures and relationships within which they operate. It is our 
+view that, among their
 other functions, the media serve, and propagandize on behalf of, the
 powerful societal interests that control and finance them. The represen-
 tatives of these interests have important agendas and principles that they
@@ -77,6 +77,7 @@ finally, to point out the possible applicability of the model to a number of
 issues under current or recent debate.
 
 UPDATING THE PROPAGANDA MODEL
+
 The propaganda model, spelled out in detail in chapter t, explains the
 broad sweep of the mainstream media's behavior and performance by
 theiT corporate character and integration into the political economy of
@@ -123,10 +124,9 @@ and movie-theater chains. They also provide news and occasional inves-
 tigative reports and documentaries that address political issues, but the
 leaders of these pop-cultural behemoths are mainly interested in enter-
 tainment, which produces large audiences with shows like ABC TV's
-Who
-~nts to Be a Millionaire and CBS-TV's Survivor, or with movies
-like Disney's Lion King that also make possible the cross-selling "syner-
-gies" that are a focal point oftheir attention and resources.
+Who Wants to Be a Millionaire and CBS-TV's Survivor, or with movies
+like Disney's Lion King that also make possible the cross-selling "synergies" 
+that are a focal point oftheir attention and resources.
 Important branches of the media such as movies and books have had
 substantial global markets for many years, but only in the past two
 decades has a global media system come into being that is having major
@@ -347,7 +347,9 @@ costs, and what is being done in their name all over the world. Ifthey are
 not getting much information on these topics, the propaganda model can
 explain why: the sovereigns who control the media choose not to offer
 such material.
-                        UPDATING THE CASE STUDIES
+
+UPDATING THE CASE STUDIES
+
 In the case studies presented in chapters 2 through 6, we examine the dif-
 ferences in treatment of situations broadly similar in character, except for
 the political and economic interests at stake. Our expectation is that news
@@ -358,7 +360,9 @@ cials would be treated differently by the media than an election held by a
 government that U.S. officials oppose. It will be seen in chapter 3 that in
 the important elections analyzed there this dichotomous treatment and
 bias was disp1ayed to an extraordinary degree.
-                    Worthy and Unworthy Victims
+
+Worthy and Unworthy Victims
+
 In chapter 2, we compare the media's treatment of victims of enemy
 states and those of the United States and U.S. client states. Our predic-
 tion is that the victims of enemy states will be found "worthy" and will
@@ -539,8 +543,10 @@ sacre at face value. In the same time frame, the media's treatment of the
 indisputable massacre at Liquica was insufficient in volume or indigna-
 tion to mobilize the public, in accord with the U.S. policy of leaving the
 management of events in East Timor to the U.S. ally Indonesia.
-                    Legitimating Versus Meaningless
-                        Third World Elections
+
+Legitimating Versus Meaningless
+Third World Elections
+
 In chapter 3 we show that the mainstream media have followed a govern-
 ment agenda in treating elections in client and disfavored states. In El
 Salvador in the 1980s, the U.S. government sponsored several elections
@@ -647,8 +653,10 @@ to report the findings of the Moscow Times study.5 l Putin is another "re-
 former," like Yeltsin, supported by the West, so that it follows once again
 that for the mainstream media a flawed eIection~hardly admitted to be
 flawed~remainsbetter than none.52
-                        The KGB-Bulgarian Plot to
-                            Assassinate the Pope
+
+The KGB-Bulgarian Plot to
+Assassinate the Pope
+
 During the Reagan era (1981-88), there was a concerted effort to demo-
 nize the Soviet Union, in order to support a major arms buildup and a
 new, more aggressive policy in the Third World and globally. The Soviet
@@ -726,9 +734,10 @@ fessionals and falsified evidence to support a Soviet linkage. The Times
 was not alone in following a misleading party line, but it is notable that
 this paper of record has yet to acknowledge its exceptional gullibility and
 propaganda service.
-                    VIETNAM, LAOS, AND CAMBODIA
-                    Vietnam: Was the United States
-                    a Victim or an Aggressor?
+
+VIETNAM, LAOS, AND CAMBODIA
+Vietnam: Was the United States
+a Victim or an Aggressor?
 
 In chapters 5 through 7, we show that media coverage of the Indochina
 wars fits the propaganda model very well. The United States first in-
@@ -777,7 +786,8 @@ Americans."61 This reflects the common establishment view, implicit in
 Bush's comment, that nobody has a right of self-defense against this
 country, even if it intervenes across the ocean to impose by force a gov-
 ernment that the people of that country rejecl.
-                U.S. Chemical Warfare in Indochina
+
+U.S. Chemical Warfare in Indochina
 
 It is also of interest how the media have treated the massive use of chemi-
 cals during the Vietnam War and the horrifying aftermath for the vic-
@@ -893,7 +903,9 @@ that this country is a moral force on this issue and opposes use of this ter-
 rible weapomy. U.S. leaders have opposed the use of chemical warfare-
 by enemy states-but it is a different maner when they choose to use
 such weapomy themselves, or when a client state does the same.74
-                    Rewriting Vietnam War History
+
+Rewriting Vietnam War History
+
 There have been thousands of books written on theVietnam War,7S and
 that war has been a brooding omnipresence in the U.S. culture since its
 end in 1975. For the dominant elite the war represents an era in which
@@ -1014,7 +1026,9 @@ lyzing a series ofLind arguments in defense of the war, that "the evidence
 simply washes away his positions like a sand castle on the beach."86 But
 Lind was saying what the elite wants said, and Franklin was not, so that
 mainstream media treatment followed accordingly.
-                                Laos
+
+Laos
+
 Laos's Plain of Jars was subjected to some of the heaviest bombings of
 civilian targets in history, especially after 1968, when Washington was
 compelled under domestic pressure ro enter negotiations with North
@@ -1043,7 +1057,9 @@ complete silence concerning the U.S. non-cooperativeness in attempts to
 alleviate a crisis dating back to the "secret war" against Laos, which again
 was "secret" only by tacit propaganda service of the mainstream media
 (see chapter 6).
-                            Cambodia
+
+Cambodia
+
 Important changes have occurred in Cambodia since 1988, including
 Vietnam's withdrawal from that country, elections held under UN aus-
 pices, and the death of Pol Pot. We noted in chapter 7 that, after the Viet-
@@ -1198,7 +1214,9 @@ East Timor is given zero weight, and his slaughter of somewhere between
 500,000 and 2 million people within Indonesia some years back is also
 not mentioned. This tells us all we need to know about how good and
 bad genocidists fare in the Western propaganda system.
-                            FURTHER APPLICATIONS
+
+FURTHER APPLICATIONS
+
 In his book Golden Rule, political scientist Thomas Ferguson argues that
 where the major investors in political parties and elections agree on an
 issue, the parties will not compete on that issue, no matter how strongly
@@ -1520,7 +1538,9 @@ security industry eager to benefit from the partial or full privatization of
 Social Security.144 The applicability of the propaganda model in these
 and other cases, including the media's handling of the "drug wars,"
 seems clear.\45
-                        CONCLUDING NOTE
+
+CONCLUDING NOTE
+
 The propaganda model remains a useful framework for analyzing and
 understanding the workings of the mainstream media-perhaps even
 more so than in 1988. As we noted above, the changes in structural con-
@@ -1551,78 +1571,37 @@ These, and other nonprofit community-based broadcasting stations and
 networks, and a better use of public-access channels, the Internet, and
 independent print media, will be essential for the achievement of major
 democratic social and political successes.
-                            Notes to Introduction
-1. On a number of issues, such as trade agreements, health care, and the
-appropriate size of the military budget, there is a sharp division between
-media personnel and the elite on the one hand and the general population on
-the other hand, as we discuss below under "Further Applications."
-2. This was even true in the Soviet Union, where the media's disclosure of
-inconvenient facts on the Afghan war caused the Soviet defense minister to
-denounce the press as unpatriotic; see Bill Keller, "Soviet Official Says Press
-Harms Army," lv.Tew YOrk Times, January 21, 1988.
-3. For an accounr of critiques, and the present writers' replies, see Noam
-Chomsky, Necessary Illusions (Boston: South End Press, 1989), appendix I;
-Edward S. Herman, "The Propaganda Model Revisited," in The Myth of the
-Liberal Media (New York: Peter Lang, 1999).
-4- Ben Bagdikian, The Media Monopoly, 6th ed. (Boston: Beacon Press,
-2000), p. xxi.
+
+Notes to Introduction
+
+1. On a number of issues, such as trade agreements, health care, and the appropriate size of the military budget, there is a sharp division between media personnel and the elite on the one hand and the general population on the other hand, as we discuss below under "Further Applications."
+2. This was even true in the Soviet Union, where the media's disclosure of inconvenient facts on the Afghan war caused the Soviet defense minister to denounce the press as unpatriotic; see Bill Keller, "Soviet Official Says Press Harms Army," lv.Tew YOrk Times, January 21, 1988.
+3. For an accounr of critiques, and the present writers' replies, see Noam Chomsky, Necessary Illusions (Boston: South End Press, 1989), appendix I; Edward S. Herman, "The Propaganda Model Revisited," in The Myth of the Liberal Media (New York: Peter Lang, 1999).
+4. Ben Bagdikian, The Media Monopoly, 6th ed. (Boston: Beacon Press, 2000), p. xxi.
 5. Ibid.
-6. Edward S. Herman and Robert McChesney, The Global Media (London:
-Cassell, 1997).
-7. Robert McChesney, Rich Media, Poor Democracy (Urbana: University of
-Illinois Press, 2000), p. 108.
+6. Edward S. Herman and Robert McChesney, The Global Media (London: Cassell, 1997).
+7. Robert McChesney, Rich Media, Poor Democracy (Urbana: University of Illinois Press, 2000), p. 108.
 8. Ibid., p. 109.
-9. James Ledbetter, "Public Broadcasting Sells; (Out?)," The Nation, Decem-
-ber I, 1997.
+9. James Ledbetter, "Public Broadcasting Sells; (Out?)," The Nation, December I, 1997.
 10. Ibid.
-II. Stephanie Strom, "Japanese Sites for Women Aim for Empowerment,"
-New "York Times, December 25, 2000.
-12. J\1ark Fineman, "Military Can't Outflank Rebels in War of Words," Los
-Angeles Times, February 21, 1995; Leonard Doyle, "Rebels Try to Advance via
-Internet," The Indepemknt, March 7, 1995.
-13. Jim Shultz, "Bolivia's Water War Victory," Earth Island Journal, Septem-
-ber 22, 2000; "Bolivia-The Last Word," April 13, 2000, JShultz@democra-
-cyar.org; "How the Internet Helped Activists," Straits Times (Singapore), May
-25, 1998; Marshall Clark, "Cleansing the Earth," Inside Indonesia (Octo-
-ber-December 1998).
-14. Madelaine Drohan, "How the Net Killed the .MAl," Globe and Mail, April
-29,1998.
-IS. Kayte Van Scoy, "How Green Was My Silicon Valley," PC/Computing,
-March I, 2000; Keith Perine, "Power to the (\Veb-Enabled) People," Industry
-Standard, April 10, 2000. See also "Further Applications" below.
-16. James Ledbetter, "Some Pitfalls in Portals," Columbia Journalism Review
-.~
-(November-December 1999)·
-1
+11. Stephanie Strom, "Japanese Sites for Women Aim for Empowerment," New "York Times, December 25, 2000.
+12. J\1ark Fineman, "Military Can't Outflank Rebels in War of Words," Los Angeles Times, February 21, 1995; Leonard Doyle, "Rebels Try to Advance via Internet," The Indepemknt, March 7, 1995.
+13. Jim Shultz, "Bolivia's Water War Victory," Earth Island Journal, Septem- ber 22, 2000; "Bolivia-The Last Word," April 13, 2000, JShultz@democracyar.org; "How the Internet Helped Activists," Straits Times (Singapore), May 25, 1998; Marshall Clark, "Cleansing the Earth," Inside Indonesia (October-December 1998).
+14. Madelaine Drohan, "How the Net Killed the .MAl," Globe and Mail, April 29,1998.
+15. Kayte Van Scoy, "How Green Was My Silicon Valley," PC/Computing, March I, 2000; Keith Perine, "Power to the (\Veb-Enabled) People," Industry Standard, April 10, 2000. See also "Further Applications" below.
+16. James Ledbetter, "Some Pitfalls in Portals," Columbia Journalism Review .~ (November-December 1999)· 1
 17. Quoted in ibid.
-18. Alex Carey, Taking the Risk out of DemoCTa<:y (Urbana: University ofIlli~
-..
-nois Press, 1997); John Stauber and Sheldon Rampton, Toxic Sludge Is Good
-1
-for "You.' (Monroe, Maine: Common Courage Press, 1995); Stuart Ewen, PR'
-A Social History ofSpin (New York: Basic Books, 1996).
-19. Mark Dowie, "Introduction," Stauber and Rampton, Toxic Sludge.
-•
-20. See Stephen Cohen, Failed Crusade:America and the Tragedy of Posr-Com-
-1
-munist Russia (New York: Norton, 2000). See also Thomas Frank, One Mar-
-ker Under God (New York: Doubleday, 2000).
-21. Kevin Robins and Frank Webster, Times of the Technocu1ture (London:
-Routledge, I999), p. 127.
-22. Patricia Aufderheide, "Journalism and Public Life Seen Through the
-'Net,'" in Aufderheide, The Daily Planet (Minneapolis: University of Min-
-nesota Press, 2000); Joseph Turow, Breaking Up Amen'ca (Chicago: Univer-
-siryofChicago Press, 1997).
+18. Alex Carey, Taking the Risk out of DemoCTa<:y (Urbana: University of Illinois Press, 1997); John Stauber and Sheldon Rampton, Toxic Sludge Is Good 1 for "You.' (Monroe, Maine: Common Courage Press, 1995); Stuart Ewen, PR' A Social History ofSpin (New York: Basic Books, 1996).
+19. Mark Dowie, "Introduction," Stauber and Rampton, Toxic Sludge. •
+20. See Stephen Cohen, Failed Crusade:America and the Tragedy of Posr-Communist Russia (New York: Norton, 2000). See also Thomas Frank, One Marker Under God (New York: Doubleday, 2000).
+21. Kevin Robins and Frank Webster, Times of the Technocu1ture (London: Routledge, I999), p. 127.
+22. Patricia Aufderheide, "Journalism and Public Life Seen Through the 'Net,'" in Aufderheide, The Daily Planet (Minneapolis: University of Minnesota Press, 2000); Joseph Turow, Breaking Up Amen'ca (Chicago: University of Chicago Press, 1997).
 23. Herman and McChesney, Global Media, chapter 5.
-24. On the ideological messages borne in commercials, see Erik Barnouw,
-The Sponsor (New York: Oxford University Press, 1978), part 2, chapter t.
-25. See Robert McChesney, 'Telecommunications, Mass Media, and Democracy
-(New York: Oxford, 1993).
+24. On the ideological messages borne in commercials, see Erik Barnouw, The Sponsor (New York: Oxford University Press, 1978), part 2, chapter t.
+25. See Robert McChesney, 'Telecommunications, Mass Media, and Democracy (New York: Oxford, 1993).
 26. See Herman, Myth ofthe Liberal Media, pp. 32-33.
-27. For some dramatic evidence on the mainstream media's neglect of these
-credible sources, see below, pp. 76-79.
-28. Peter Galbraith, "How the Turks Helped Their Enemies," New lOrk
-Times, February 20, 1999.
+27. For some dramatic evidence on the mainstream media's neglect of these credible sources, see below, pp. 76-79.
+28. Peter Galbraith, "How the Turks Helped Their Enemies," New lOrk Times, February 20, 1999.
 29. During the 1980s, when Saddam Hussein was a u.s. ally and recipient of
 U.S. aid, his use of chemical weapons against the Kurds in Iraq, which killed
 thousands in 1988, did not interfere with support by the Bush administration,
@@ -2232,9 +2211,9 @@ story), view of media operations, to see the pattern of manipulation and systema
 bias.
 Let us turn now to a more detailed examination of the main constituents of
 the propaganda model, which will be applied and tested in the chapters that follow.
-1.1. SIZE, OWNERSHIP, AND
-PROFIT ORIENTATION OF THE MASS MEDIA:
-THE FIRST FILTER
+
+1.1. SIZE, OWNERSHIP, AND PROFIT ORIENTATION OF THE MASS MEDIA: THE FIRST FILTER
+
 In their analysis of the evolution of the media in Great Britain, James Curran and
 Jean Seaton describe how, in the first half of the nineteenth century, a radical press
 emerged that reached a national working-class audience. This alternative press was
@@ -2517,9 +2496,9 @@ constraints by owners and other market-profit–oriented forces;40 and they are
 closely interlocked, and have important common interests, with other major
 corporations, banks, and government. This is the first powerful filter that will
 affect news choices.
-								1.2. THE ADVERTISING
-								LICENSE TO DO BUSINESS:
-								THE SECOND FILTER
+
+1.2. THE ADVERTISING LICENSE TO DO BUSINESS: THE SECOND FILTER
+
 In arguing for the benefits of the free market as a means of controlling dissident
 opinion in the mid-nineteenth century, the Liberal chancellor of the British
 exchequer, Sir George Lewis, noted that the market would promote those papers
@@ -2675,8 +2654,9 @@ documentary-cultural-critical materials will be driven out of secondary media
 vehicles as well, as these companies strive to qualify for advertiser interest,
 although there will always be some cultural-political programming trying to come
 into being or surviving on the periphery of the mainstream media.
-1.3. SOURCING MASS-MEDIA NEWS:
-THE THIRD FILTER
+
+1.3. SOURCING MASS-MEDIA NEWS: THE THIRD FILTER
+
 The mass media are drawn into a symbiotic relationship with powerful sources of
 information by economic necessity and reciprocity of interest. The media need a
 steady, reliable flow of the raw material of news. They have daily news demands
@@ -2912,8 +2892,9 @@ establishment wants said.97
 * This is a compilation of all appearances on the news hour concerning the Bulgarian Connection (3),
 the shooting down of the Korean airliner KAL 007 (5), and terrorism, defense, and arms control
 (33), from January 14, 1985, through January 27, 1986.
-1.4. FLAK AND THE ENFORCERS:
-THE FOURTH FILTER
+
+1.4. FLAK AND THE ENFORCERS: THE FOURTH FILTER
+
 “Flak” refers to negative responses to a media statement or program. It may take
 the form of letters, telegrams, phone calls, petitions, lawsuits, speeches and bills
 before Congress, and other modes of complaint, threat, and punitive action. It may
@@ -3018,7 +2999,9 @@ government is a major producer of flak, regularly assailing, threatening, and
 News management itself is designed to produce flak. In the Reagan years, Mr.
 Reagan was put on television to exude charm to millions, many of whom berated
 the media when they dared to criticize the “Great Communicator.”110
+
 1.5. ANTICOMMUNISM AS A CONTROL MECHANISM
+
 A final filter is the ideology of anticommunism. Communism as the ultimate evil
 has always been the specter haunting property owners, as it threatens the very root
 of their class position and superior status. The Soviet, Chinese, and Cuban
@@ -3095,8 +3078,9 @@ practice. It is the mass media that identify, create, and push into the limeligh
 McCarthy, Arkady Shevchenko, and Claire Sterling and Robert Leiken, or an
 Annie Kriegel and Pierre Daix. The ideology and religion of anticommunism is a
 potent filter.
-1.6. DICHOTOMIZATION AND PROPAGANDA
-CAMPAIGNS
+
+1.6. DICHOTOMIZATION AND PROPAGANDA CAMPAIGNS
+
 The five filters narrow the range of news that passes through the gates, and even
 more sharply limit what can become “big news,” subject to sustained news
 campaigns. By definition, news from primary establishment sources meets one
@@ -3271,9 +3255,9 @@ extreme and fit well the expectations of a propaganda model. While this
 differential treatment occurs on a large scale, the media, intellectuals, and public
 are able to remain unconscious of the fact and maintain a high moral and self-
 righteous tone. This is evidence of an extremely effective propaganda system.
-2.1. JERZY POPIELUSZKO VERSUS
-A HUNDRED RELIGIOUS VICTIMS IN LATIN
-AMERICA
+
+2.1. JERZY POPIELUSZKO VERSUS A HUNDRED RELIGIOUS VICTIMS IN LATIN AMERICA
+
 A useful comparison can be made between the mass media’s treatment of Jerzy
 Popieluszko, a Polish priest murdered by the Polish police in October 1984, and
 the media’s coverage of priests murdered within the U.S. sphere of influence. In
@@ -3281,7 +3265,9 @@ our model, Popieluszko, murdered in an enemy state, will be a worthy victim,
 whereas priests murdered in our client states in Latin America will be unworthy.
 The former may be expected to elicit a propaganda outburst by the mass media;
 the latter will not generate sustained coverage.
+
 2.1.1. QUANTITATIVE ASPECTS OF COVERAGE
+
 Table 2–1 shows, on row 1, the coverage of Popieluszko’s murder and the trial of
 his murderers by the New York Times, Time and Newsweek, and CBS News. Rows
 2 through 5 summarize the coverage in the same media given to religious
@@ -3358,7 +3344,9 @@ or explore the significance of the fact that there was a relatively serious tria
 “totalitarian” Poland, while state murders were being carried out on a daily basis
 without any investigations or trials of the murderers in a number of countries
 within the U.S. sphere of influence called “fledgling democracies.”
+
 2.1.2. COVERAGE OF THE POPIELUSZKO CASE
+
 Jerzy Popieluszko was an activist priest and a strong supporter of the Solidarity
 movement in Poland. In an effort to eliminate or intimidate him, members of the
 Polish secret police abducted him on October 19, 1984. He was beaten, bound, and
@@ -3440,8 +3428,9 @@ squads connected to them have ever resulted in a trial. The absence of such a
 comparison, as well as the failure of the Times to produce an editorial entitled
 “Murderous El Salvador,” illustrates how a serviceable terrorism is protected in a
 propaganda mode.11
-2.2. RUTILIO GRANDE AND THE UNWORTHY
-SEVENTY-TWO
+
+2.2. RUTILIO GRANDE AND THE UNWORTHY SEVENTY-TWO
+
 As shown on table 2–1, the unworthy seventy-two on Penny Lernoux’s list of
 martyrs were subject to a grand total of eight articles in the New York Times, one
 in Newsweek, and none in Time, and they were never mentioned on CBS News in
@@ -3454,7 +3443,9 @@ emotion. They described the murders as remote events in a distant world (see the
 Times’s description of the murder of Michael Jerome Cypher, in table 2–2). But
 that is a matter of editorial choice. The drama is there for the asking—only the
 press concern is missing.12
+
 WORTHY VICTIMS
+
 Jerzy Popieluszko, a Polish priest, murdered on October 19, 1984.
 (1) Account at finding of body: “The sources who saw the priest’s body on
 Tuesday, said it was badly bruised, indicating he had been beaten after he was
@@ -3474,7 +3465,9 @@ face, the narration by a police officer at the reservoir declared that ‘there 
 signs of beating.’ This was confirmed by medical evidence offered Thursday by
 Dr. Maria Byrdy, a pathologist, who said Father Popieluszko had been struck more
 than a dozen times with a club” (Jan. 26, 1985).
+
 UNWORTHY VICTIMS
+
 Michael Jerome Cypher, an American priest murdered in Honduras.
 “The bodies were found in a dynamited well on an eastern Honduran estate . . .”
 (July 19, 1975). Note: There was no arrest or trial.
@@ -3550,7 +3543,9 @@ murder of Rutilio Grande was mentioned in Newsweek (“Priests in Peril,” Aug.
 CBS News. This was important in allowing the terror to go on unimpeded. To
 paraphrase the New York Times editorial on “murderous Poland”: no publicity and
 agitation, no containment of terror.
+
 2.3. ARCHBISHOP OSCAR ROMERO
+
 The murder of Archbishop Oscar Romero, the highest Catholic church official in
 El Salvador, was “big news,” and its political implications were enormous. At the
 time of his murder, Romero had become the foremost and most outspoken critic of
@@ -3570,7 +3565,9 @@ activist in opposition to the local alliance of army and oligarchy and to U.S. p
 in El Salvador. The U.S. media’s news coverage of the archbishop’s murder and
 its follow-up reflected well his threatening role, reaching new levels of dishonesty
 and propaganda service in their coverage of this and related events.
+
 2.3.1 DETAILS OF THE MURDER AND PUBLIC RESPONSE
+
 The details of the Romero murder provided by the U.S. mass media were concise
 (see table 2–2). While there were expressions of shock and distress, there were
 very few quotations and expressions of outrage by supporters of Romero. There
@@ -3579,8 +3576,9 @@ that the guilty must be found and brought to justice. The New York Times had no
 editorial condemning, or even mentioning, the murder. It was quickly placed in the
 larger framework of alleged killings by both the left and the right that were deeply
 regretted by Salvadoran and U.S. officials.
-2.3.2 THE PROPAGANDA LINE: A REFORMIST JUNTA TRYING TO
-CONTAIN THE VIOLENCE OF RIGHT AND LEFT
+
+2.3.2 THE PROPAGANDA LINE: A REFORMIST JUNTA TRYING TO CONTAIN THE VIOLENCE OF RIGHT AND LEFT
+
 The Salvadoran and U.S. governments contended at the time of Romero’s murder
 that the killing going on in El Salvador was being done by extremists of the right
 and the left, not by the Salvadoran armed forces and their agents; and that the
@@ -3744,7 +3742,9 @@ on government handouts and carefully avoiding readily available conflicting
 evidence and alternative views, the Times once again found the means of applying
 the usual formula of a deadly right offsetting a deadly left, with the junta favored
 by the U.S. government once more placed in the middle—with enhanced prestige!
+
 2.3.3. MISREPRESENTATION OF ROMERO’S VIEWS
+
 As we noted earlier, Romero was unequivocal in laying the blame for the violence
 in El Salvador on the army and security forces, and he viewed the left and popular
 groupings as victims provoked into self-defense by violence and injustice. The
@@ -3776,7 +3776,9 @@ successor has been much more circumspect than Romero. The willingness of the
 right wing and the army to murder people like Romero might have affected
 Archbishop Rivera y Damas’s ability to speak his mind freely and forced public
 caution. The point does not arise for Schumacher and the Times.36
+
 2.3.4. THE LOSS OF INTEREST IN RESPONSIBILITY AT THE TOP
+
 With Popieluszko, the media tried hard to establish that there was knowledge of
 and responsibility for the crime at higher levels of the Polish government. Soviet
 interest and possible involvement were also regularly invoked. With Romero, in
@@ -3837,7 +3839,9 @@ Romero’s forecasts seem to be vindicated by his own murder, there is no hint i
 the account of any irony or criticism of Vance and his associates. Here the press
 cannot plead lack of knowledge. As later conceded, the media knew very well that
 the security forces were the source of the violence.
+
 2.3.5. MURDER UNAVENGED—OR TRIUMPHANT
+
 The assassins of Archbishop Romero were never “officially” discovered or
 prosecuted, and he joined the ranks of the tens of thousands of other Salvadorans
 murdered without justice being done. But in contrast with Popieluszko, the U.S.
@@ -3942,11 +3946,9 @@ El Salvador, Lindsey Gruson comments that “Today, death squads of the right an
 left no longer terrorize the population into submission and silence,” thanks to the
 success of President Duarte and his U.S. supporters in moving the country toward
 democracy—exactly as a propaganda model would predict.48
-2.4. COVERAGE OF THE SALVADORAN NATIONAL
-GUARDS’
-MURDER OF THE FOUR U.S. CHURCHWOMEN AND
-ITS
-FOLLOW-UP
+
+2.4. COVERAGE OF THE SALVADORAN NATIONAL GUARDS’ MURDER OF THE FOUR U.S. CHURCHWOMEN AND ITS FOLLOW-UP
+
 On December 2, 1980, four U.S. churchwomen working in El Salvador—Maura
 Clarke, Jean Donovan, Ita Ford, and Dorothy Kazel—were seized, raped, and
 murdered by members of the Salvadoran National Guard. This crime was
@@ -4006,7 +4008,9 @@ murders, and the delayed and aborted outcome, in such a way as to keep
 indignation low and to downplay the quality of a system that murdered the women
 and had to be forced to find a set of low-level personnel guilty of the crime (which
 it took them years to do). The media met this challenge with flying colors.
+
 2.4.1. DETAILS OF THE SAVAGERY
+
 The finding of Popieluszko’s body was front-page news for the New York Times—
 in fact, the initial failure to find his body made the front page—and in all the
 media publications analyzed here, the details of his seizure, the disposition of his
@@ -4062,8 +4066,9 @@ Lydia Chavez, of the New York Times, who attended the trial, notes that there we
 eight hours of testimony and seven hours of argument that focused on the
 women’s work in El Salvador “and on the details of their kidnappings and deaths,”
 but her article gave no details whatsoever on the medical evidence.
-2.4.2. LACK OF INDIGNATION AND INSISTENT DEMANDS
-FOR JUSTICE
+
+2.4.2. LACK OF INDIGNATION AND INSISTENT DEMANDS FOR JUSTICE
+
 In the Popieluszko case, the press conveyed the impression of intolerable outrage
 that demanded immediate rectification. In the case of the murder of the four
 American women, while the media asserted and quoted government officials that
@@ -4096,8 +4101,9 @@ was much simpler than the one in El Salvador: Popieluszko was murdered by
 officials of the state, and this was intolerable. The complexities and resort to
 philosophical inanities about unallocable “violence” are reserved for deaths in the
 provinces.
-2.4.3. THE LACK OF ZEAL IN THE SEARCH FOR VILLAINY
-AT THE TOP
+
+2.4.3. THE LACK OF ZEAL IN THE SEARCH FOR VILLAINY AT THE TOP
+
 As we saw earlier, in the Popieluszko case the mass media eagerly, aggressively,
 and on a daily basis sought and pointed to evidence of top-level involvement in the
 killing. In the case of the killings of the four women, we can observe a completely
@@ -4292,8 +4298,9 @@ or with a critical and honest press.
 This cover-up of the Salvadoran judicial process, even though four murdered
 American women were involved, did not arouse the press to indignation or satire,
 nor did it cause them to provide more than minimal coverage of the inquiry.
-2.4.4. THE TRIAL—FIVE NATIONAL GUARDSMEN FOR
-$19.4 MILLION
+
+2.4.4. THE TRIAL—FIVE NATIONAL GUARDSMEN FOR $19.4 MILLION
+
 The trial of the five immediate killers of the four women should have been
 presented in a Kafkaesque framework, but the U.S. media played it very straight.
 The trial took place three-and-a-half years after the acts of murder, despite the fact
@@ -4345,8 +4352,9 @@ of “some evidence supporting the involvement of higher-ups” or mentioning th
 report’s admission of the limits of its information. No reference is made to
 Santivánez or the Dinges report: Newsweek sticks to an official source, and
 misreads it.
-2.5. TWENTY-THREE RELIGIOUS VICTIMS IN
-GUATEMALA, 1980–85
+
+2.5. TWENTY-THREE RELIGIOUS VICTIMS IN GUATEMALA, 1980–85
+
 The modern history of Guatemala was decisively shaped by the U.S.-organized
 invasion and overthrow of the democratically elected regime of Jacobo Arbenz in
 June 1954. Since that time, while Guatemala has remained securely within the
@@ -4663,8 +4671,9 @@ and no serious examination of the content of those charges is provided. This
 superficial piece exhausts the sample media’s coverage of this State Department
 campaign. The AW report Human Rights in Guatemala: No Neutrals Allowed,
 which discusses this campaign and the Enders letter, was never mentioned.
-2.6. THE MUTUAL SUPPORT GROUP MURDERS IN
-GUATEMALA
+
+2.6. THE MUTUAL SUPPORT GROUP MURDERS IN GUATEMALA
+
 Human-rights monitoring and protective agencies have had a very difficult time
 organizing and surviving in the “death-squad democracies” of El Salvador and
 Guatemala. Between October 1980 and March 1983, five officials of the Human
@@ -4934,7 +4943,9 @@ cases, we will first describe the election-propaganda framework that the U.S.
 government tried to foist on the media; we will then review the basic electoral
 conditions under which elections were held in the three countries; and finally, we
 will examine how the U.S. mass media treated each of the three elections.
+
 3.1. ELECTION-PROPAGANDA FRAMEWORKS
+
 The U.S. government has employed a number of devices in its sponsored elections
 to put them in a favorable light. It has also had an identifiable agenda of issues that
 it wants stressed, as well as others it wants ignored or downplayed. Central to
@@ -5040,9 +5051,9 @@ United States follow a single standard in dealing with the elections in El Salva
 Guatemala, and Nicaragua, or did they follow their government’s agenda in order
 to put the Salvadoran and Guatemalan elections in a favorable light and to
 denigrate the one held in Nicaragua?
-3.2. BASIC ELECTORAL CONDITIONS IN EL
-SALVADOR,
-GUATEMALA, AND NICARAGUA, 1982–85
+
+3.2. BASIC ELECTORAL CONDITIONS IN EL SALVADOR, GUATEMALA, AND NICARAGUA, 1982–85
+
 All three of these countries, in which elections were held in the years 1982–85,
 were in the midst of serious conflict: Nicaragua was being subjected to regular
 border incursions by the U.S.-organized and supplied contras. El Salvador was in
@@ -5117,7 +5128,9 @@ U.S. satellites were free to murder at will without serious political cost.
 Let us examine briefly how El Salvador, Guatemala, and Nicaragua compared
 in the individual categories of conditions of a free election, before we turn to the
 media treatment of these issues.
+
 3.2.1. FREE SPEECH AND ASSEMBLY
+
 In El Salvador, the right to free speech and free assembly was legally suspended
 under a state-of-siege order of March 7, 1980. Decree No. 507 of December 3,
 1980, essentially destroyed the judicial system, permitting the armed forces to hold
@@ -5240,7 +5253,9 @@ concluding that the contesting parties “were able to hold the vast majority of
 rallies unimpeded by pro-FSLN demonstrations . . .”26
 Our conclusion is that the first basic condition of a free election was partially
 met in Nicaragua, but was not met at all in El Salvador and Guatemala.
+
 3.2.2. FREEDOM OF THE PRESS
+
 In El Salvador, the only substantial newspapers critical of the government, La
 Crónica del Pueblo and El Independiente—neither by any means radical papers—
 were closed in July 1980 and January 1981, respectively, the first because its top
@@ -5300,7 +5315,9 @@ country, particularly one at war.33
 Our conclusion is that the condition of freedom of the press necessary for a free
 election was clearly absent in El Salvador and Guatemala, and that it was partially
 met in Nicaragua.
+
 3.2.3. FREEDOM OF ORGANIZATION OF INTERMEDIATE GROUPS
+
 Perhaps the most important fact about El Salvador in the two years prior to the
 election of March 1982 was the decimation of popular and private organizations
 that could pose any kind of challenge to the army and oligarchy. As we noted in
@@ -5352,8 +5369,10 @@ FSLN popular organizations may be.
 We conclude that on the third basic condition for a free election, El Salvador
 and Guatemala did not qualify in the years 1984–85; Nicaragua did, at least to a
 significant degree.37
+
 3.2.4. FREEDOM TO ORGANIZE PARTIES, FIELD CANDIDATES, AND
 CAMPAIGN FOR OFFICE
+
 No party of the left could organize and present candidates in the 1982 and 1984
 elections in El Salvador. The Democratic Front (FDR) had been quickly driven
 underground. Five of its top leaders were seized in El Salvador in November 1980
@@ -5513,7 +5532,9 @@ of options, was substantially greater in Nicaragua than in El Salvador and
 Guatemala. Furthermore, as all major political groups of the left were off the ballot
 by threat of violence in the latter two cases, those elections fail to meet still
 another basic electoral condition.
+
 3.2.5. ABSENCE OF STATE TERROR AND A CLIMATE OF FEAR
+
 During the years 1980–84 the death squads worked freely in El Salvador, in close
 coordination with the army and security forces. The average rate of killings of
 civilians in the thirty months prior to the 1982 election was approximately seven
@@ -5543,8 +5564,10 @@ Our conclusion is that the fifth condition for a free election was met in
 Nicaragua, but not in El Salvador and Guatemala. And our overall finding is that
 neither El Salvador nor Guatemala met any of the five basic conditions of a free
 election, whereas Nicaragua met some of them well, others to a lesser extent.
+
 3.3. THE COERCION PACKAGES IN EL SALVADOR,
 GUATEMALA, AND NICARAGUA
+
 As we noted, in the U.S. government’s sponsored elections, voter turnout is
 interpreted as public support for the election and its sponsors. In disapproved
 elections (here, Nicaragua), this frame is abandoned, and voter turnout is either
@@ -5591,10 +5614,12 @@ and the government did not kill dissidents, in contrast to the normal practice i
 Salvador and Guatemala.
 In sum, Nicaragua did not have a potent coercion package at work to help get
 out the vote—as did the Salvadoran and Guatemalan governments.
+
 3.4. EL SALVADOR: HOW THE U.S. MEDIA
 TRANSFORMED A “DERANGED KILLING MACHINE”
 INTO THE PROTECTOR OF AN INCIPIENT
 DEMOCRACY
+
 In reporting on the 1982 Salvadoran election, the U.S. mass media closely
 followed the government agenda. The personalities of the candidates, the long
 lines waiting to vote, alleged rebel disruption, and “turnout” were heavily
@@ -5672,8 +5697,9 @@ Nor did the experience of 1982 and its aftermath affect the media’s
 willingness to follow the patriotic agenda once again in 1984. We will return to
 this below in a statistical comparison of the New York Times’s coverage of the
 Salvadoran and Nicaraguan elections.
-3.5. “FIRST STEP: GUATEMALA OPTS FOR
-MODERATION”73
+
+3.5. “FIRST STEP: GUATEMALA OPTS FOR MODERATION”73
+
 The U.S. government was less deeply involved in the Guatemalan elections of
 1984 and 1985 than it was in those held in El Salvador, but, as we saw in chapter
 2, the Reagan administration went to great pains to put a favorable gloss on the
@@ -5908,8 +5934,11 @@ election were met. For the U.S. government, the insurgents were not a main
 opposition, Guatemalan state terror was merely a public-relations inconvenience,
 and the elections were fair. The mass media’s treatment of the Guatemalan
 election reflected well this government propaganda agenda.
+
 3.6. NICARAGUA: MEDIA SERVICE IN THE
+
 DELEGITIMIZING PROCESS
+
 In contrast with the Salvadoran and Guatemalan cases, the Reagan administration
 was intent on discrediting the Nicaraguan election, which threatened to legitimize
 the Sandinista government and thus weaken the case for U.S. funding of a terrorist
@@ -5960,7 +5989,9 @@ the Latin American Studies Association (LASA), half of whom had had
 in Nicaragua before the election, traveled in a rented bus, determined their own
 itinerary, and “spoke with anyone who we chose to approach (as well as numerous
 people who spontaneously approached us).”88
+
 3.6.1. TONE OF NEGATIVISM AND APATHY
+
 Time magazine hardly attempts to hide the fact that it takes its cues from
 Washington. It quotes John Hughes, then a public-relations man for the State
 Department (and previously, and subsequently, a columnist for the Christian
@@ -6020,8 +6051,11 @@ U.S. mass media in client-state elections, and the apathy and negativism
 found in elections in states disfavored by the U.S. administration, has nothing
 to do with electoral realities and must be explained entirely by an imposed
 propaganda agenda and the filtering out of contrary opinion and information.
+
 3.6.2. IGNORING THE SUPERIOR QUALITY OF THE NICARAGUAN
+
 ELECTION
+
 In the propaganda format, a great deal of attention is paid to the mechanical
 properties of elections in client states, but not in states whose elections are being
 denigrated. This was true in the cases under discussion. Time (Apr. 9, 1984)
@@ -6068,8 +6102,11 @@ Times mentioned the transparent voting boxes in El Salvador only once (Richard
 Meislin, on March 25, 1984), repeating without question the official line that the
 purpose of the translucent boxes was to prevent fraud. Any other possibility is
 unmentioned. Newsweek and CBS News ignored these matters.
+
 3.6.3. REBEL DISRUPTION INTO THE BLACK HOLE; TURNOUT NO
+
 LONGER AN INDEX OF TRIUMPH OF DEMOCRACY
+
 In the Salvadoran election, rebel disruption was a central feature of the
 government’s propaganda frame. Because the rebels opposed the election, voting
 by the people proved their rejection of the rebels and approval of the army.
@@ -6124,7 +6161,9 @@ turnout, and the meaning of that turnout. The U.S. mass media, which had feature
 these matters heavily in reference to the Salvadoran election—where they fitted
 the government’s propaganda agenda—found them entirely unnewsworthy as
 regards Nicaragua.
+
 3.6.4. THE REVIVED SENSITIVITY TO COERCION
+
 As we described earlier, the “coercion package” was off the agenda for the U.S.
 government and mass media in addressing the Salvadoran and Guatemalan
 elections. So was the element of fear engendered by mass murder and the absence
@@ -6438,6 +6477,7 @@ ignores them. As a de facto spokesman for his government, the Times
 commentator uses doublethink with as much insouciance as Reagan and Shultz.
 
 3.7. QUANTITATIVE EVIDENCE OF SYSTEMATIC
+
 MEDIA BIAS
 
 To demonstrate more rigorously the structural bias in media coverage of Third
@@ -6476,8 +6516,11 @@ clear, reflecting editorial news choices that follow a patriotic agenda. As the 
 conditions for a free election were superior in Nicaragua and the coercive elements
 less acute, the emphasis on basic conditions only in the Nicaraguan case is even
 more clearly evidence of systematic bias.
+
 3.8. THE MIG CRISIS STAGED DURING
+
 NICARAGUA’S ELECTION WEEK
+
 As Newsweek pointed out on November 19, 1984, “The story of the freighter [to
 Nicaragua, allegedly carrying MIGs] first broke during the election-night
 coverage,” but at no point does Newsweek (or Time, the Times, or CBS News)
@@ -6536,8 +6579,11 @@ want to take place. The Salvadoran and Guatemalan elections successfully
 legitimized the U.S.-backed regimes, at least for American elite opinion. The far
 more honest Nicaraguan election failed to accomplish this, thanks to the loyal
 service of the media.
+
 3.9. THE ROLE OF OFFICIAL “OBSERVERS” IN
+
 REINFORCING A PROPAGANDA LINE
+
 Official observers provide a perfect example of the use of governmentcontrolled
 “experts” and “pseudo-events” to attract media attention and channel it in the
 direction of the propaganda line. And they regularly succeed in doing this in
@@ -6709,7 +6755,9 @@ support its planned arms increase, placement of new missiles in Europe, and
 interventionist policies in the Third World. Thus the shooting of the pope by Agca
 in May 1981 occurred at a time when important Western interests were looking for
 ways to tie the Soviet Union to “international terrorism.”5
+
 4.1. THE STERLING-HENZE-KALB MODEL
+
 Although the initial media reaction to the shooting was that the roots of the act
 would seem to lie in Turkish right-wing ideology and politics, some rightists
 immediately seized the opportunity to locate the origins of the plot in the Soviet
@@ -6777,8 +6825,11 @@ KGB agent. Although Agca traveled through eleven other countries, his stay in
 Bulgaria was crucial because Bulgaria is a totalitarian state and the police know
 everything; therefore they knew who Agca was, and they must have been using
 him for their own purposes.9
+
 4.2. PROBLEMS WITH THE STERLING-HENZE-KALB
+
 MODEL
+
 The basic Sterling-Henze-Kalb model suffered from a complete absence of
 credible evidence, a reliance on ideological premises, and internal inconsistencies.
 As problems arose, the grounds were shifted, sometimes with a complete reversal
@@ -6897,7 +6948,9 @@ deniability.” If, as Agca confessed, the Bulgarians connived with him in Rome,
 escorted him to St. Peter’s Square to plan the attack, entertained him at their
 apartments, and participated in the attack itself, what happens to the logic of the
 “cover”?
+
 4.3. AN ALTERNATIVE MODEL
+
 An alternative explanation of the Bulgarian Connection can be derived from the
 questions the U.S. press would surely have raised if an analogous scenario had
 occurred in Moscow, in which Agca, who had briefly visited the United States on
@@ -7045,9 +7098,12 @@ Bulgarians. This model became more cogent over time as Agca retracted strategic
 claims, and as no confirming evidence of a Bulgarian Connection was produced.
 By the same token, the SHK model, implausible from the beginning, became even
 less tenable.
+
 4.4. THE MASS MEDIA’S UNCRITICAL ACCEPTANCE
+
 OF THE
 BULGARIAN CONNECTION
+
 Despite the implausibility of the SHK claim that Agca had been hired by the
 Bulgarians and the KGB to shoot the pope, and although it was sustained by
 argument that amounted to sheer humbuggery, the Bulgarian Connection met the
@@ -7096,13 +7152,7 @@ Italian press about inducements or coercive threats that might have been applied
 Agca while in custody.
 Agca’s evidence is given credibility by Newsweek through several devices:
 repeating his claims several times as the core of the story; stressing in two separate
-sequences
-investigative
-judge
-Martella’s
-alleged
-honesty,
-integrity,
+sequences investigative judge Martella’s alleged honesty, integrity,
 conscientiousness, etc.; quoting from Italian officials who say they “have the
 evidence” that “Agca operated in close contact with the Bulgarians”; asserting that
 “all the evidence suggests” that Agca is “not crazy.” But most important is the
@@ -7493,8 +7543,11 @@ view,” as suggested by a propaganda model. That this was true even after the t
 ended we show in a detailed analysis in appendix 2, “Tagliabue’s Finale on the
 Bulgarian Connection: A Case Study in Bias.”
 5
+
 The Indochina Wars (I):
+
 Vietnam
+
 Media coverage of the U.S. wars in Indochina has engendered a good deal of bitter
 controversy, some close analysis of several specific incidents, and a few general
 studies.1 It is widely held that the media “lost the war” by exposing the general
@@ -7517,7 +7570,9 @@ be whether the media are to be faulted for undermining the noble cause by
 adopting too “adversarial” a stance and departing thereby from fairness and
 objectivity.
 We shall see that all of these expectations are amply fulfilled.
+
 5.1. THE BOUNDS OF CONTROVERSY
+
 “For the first time in history,” Robert Elegant writes, “the outcome of a war was
 determined not in the battlefield, but on the printed page, and above all, on the
 television screen,” leading to the defeat of the United States in Vietnam. The belief
@@ -7715,7 +7770,9 @@ later, there arrived the “owls,” who observed the proceedings judiciously wi
 succumbing to the illusions of either extreme of this wrenching controversy.
 Reporting and interpretation of the facts were framed in accordance with these
 principles.
+
 5.2. “THE WILD MEN IN THE WINGS”
+
 As the elite consensus eroded in the late 1960s, criticism of the “noble cause” on
 grounds of its lack of success became more acceptable, and the category of “wild
 men in the wings” narrowed to those who opposed the war on grounds of principle
@@ -8821,8 +8878,11 @@ the tales about media treachery. But among the educated elites, the explanation
 may lie elsewhere: in a totalitarian cast of mind that regards even the actual level
 of media subservience to the state as inadequate and a threat to order and privilege
 by the “forces of anarchy . . . on the march.”
+
 5.5. SOME CRUCIAL EVENTS OF THE WAR
+
 5.5.1. THE TONKIN GULF INCIDENT
+
 By mid-1964, there was a growing consensus among Vietnamese in favor of a
 negotiated political settlement, while the United States was maneuvering with
 increasing desperation to evade what internal documents describe as “premature
@@ -9596,6 +9656,7 @@ machine, attempting to bully the media into a still more thoroughgoing conformit
 with the propaganda requirements of state policy by methods that are a travesty of
 honest journalism (let alone scholarship)—all, of course, in the interest of
 “freedom.”
+
 5.5.3. THE PARIS PEACE AGREEMENTS
 The Tet offensive convinced large sectors of elite opinion that the costs of the U.S.
 effort were too high. Lyndon Johnson stepped down. In what was termed by the
