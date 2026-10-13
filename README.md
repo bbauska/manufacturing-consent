@@ -9,9 +9,9 @@
 and<br>
 NOAM CHOMSKY</cite>
 
-<h3>With a new introduction by the authors</h3>
+<span>With a new introduction by the authors</span>
 
-<h4>Pantheon Books, New York</h4>
+<!-- <h4>Pantheon Books, New York</h4> -->
 
 <blockquote>
 The Iran-contra scandals were blamed on the President's easygoing 
