@@ -10,7 +10,9 @@ and<br>
 NOAM CHOMSKY</cite>
 
 <span>With a new introduction by the authors</span>
-
+<p>This website is a preamble to all this is Trump. A warning of what is now occurring in October, 2026.</p>
+<p>This is now a nightmare almost all started in 1980 by Reagan and the 'Trickle-down' theory. Where these 
+'politicians' cut taxes for the filthy rich hoping they would help. They never did. Actually, it got worse, and worse, and worse. Now we have pure evil running America.</p>
 <!-- <h4>Pantheon Books, New York</h4> -->
 
 <blockquote>
